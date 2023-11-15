@@ -1,0 +1,8 @@
+Tasks Manager Task Reports
+Number of tasks: 7
+Number of complete task: 3
+Number of incomplete task: 4
+Number of overdue tasks for user: 2
+Percentage of complete tasks: 42.857142857142854%
+Percentage of incomplete tasks: 57.14285714285714%
+Percentage of overdue tasks: 28.57142857142857%

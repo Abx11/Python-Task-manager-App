@@ -1,0 +1,7 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+junior dev, Hello World, Write a python program that prints 'Hello World', 10 Sep 2023, 12 Sep 2023, Yes
+senior dev, Database Check, Do a maintenance check on the company database, 10 Sep 2023, 13 Sep 2023, No
+Saba, Mic, Do a mic check, 08 Nov 2023, 20 Dec 2023, Yes
+Saba, Budget, Check monthly budget, 08 Nov 2023, 23 Dec 2023, No
+Phakamile, Review, Review the program requirements, 08 Nov 2023, 12 Dec 2023, No
